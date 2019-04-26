@@ -9,7 +9,7 @@
 	<figcaption>HIGH FIVE!</figcaption>
 </figure>
 
-<button on:click='{logout()}'>Logout</button>
+<button on:click='{logout}'>Logout</button>
 
 <style>
 	h1, figure {
